@@ -3,7 +3,7 @@
  */
 
 /**
- * @author Minal Bhudia
+ * @author Tejasvi Singh
  *
  */
 public class myAppTester {
@@ -13,7 +13,14 @@ public class myAppTester {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("Hello Software Engneering World");
+		System.out.println(areaOfRectangle(4, 3));
 
+	}
+	
+	public static double areaOfRectangle(double length, double width) {
+		double area=length*width;
+		return area;
 	}
 
 }
