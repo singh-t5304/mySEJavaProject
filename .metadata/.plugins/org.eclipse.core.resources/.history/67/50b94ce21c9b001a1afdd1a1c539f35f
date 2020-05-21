@@ -16,7 +16,6 @@ public class myAppTester {
 		System.out.println("Hello Software Engneering World");
 		System.out.print("Areamof the rectangle: ");
 		System.out.println(areaOfRectangle(4, 3));
-		System.out.println("Goodbye");
 
 	}
 	
