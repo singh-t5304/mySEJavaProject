@@ -10,7 +10,6 @@ INDEX VERSION 1.131+C:\Users\Minal Bhudia\Desktop\MyWorkspace\.metadata\.plugins
 741416789.index
 1558234620.index
 2476351216.index
-1325049651.index
 3259301653.index
 555507292.index
 3929848548.index
