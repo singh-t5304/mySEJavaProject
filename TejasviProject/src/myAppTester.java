@@ -17,6 +17,7 @@ public class myAppTester {
 		System.out.print("Areamof the rectangle: ");
 		System.out.println(areaOfRectangle(4, 3));
 		System.out.println("Goodbye");
+	
 
 	}
 	
@@ -24,5 +25,7 @@ public class myAppTester {
 		double area=length*width;
 		return area;
 	}
+	
+	
 
 }
